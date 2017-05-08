@@ -17,7 +17,7 @@ public class Calculator {
     public static void main(String[] args) {
        
 
-        Calculette c111 = new Calculette();
+        Calculette c2 = new Calculette();
     }
     }
 
